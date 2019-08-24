@@ -1,0 +1,29 @@
+Compiladores
+IFMG - Kênia Carolina
+20 August 2019
+Xulambis
+Passo Básico - Aula 1 - Introdução
+Apresento a vocês nossa linguagem de programação denominada Xulambis! Esta é uma
+linguagem revolucionária! Aproveite para descobrir todo o potencial da programação e faça
+com que Xulambis tenha muitos recursos.
+{
+//Este é o nosso programa exemplo. Viva $%^*&%!!!!
+int i; int j; float x; bool y;
+j = 10; i = 20;
+i = i + j;
+x = 13.8;
+y = true;
+while ( y ) {
+i = i + j;
+if ( i < j ) break;
+}
+}
+Todo este código está em um arquivo chamado teste.xul
+Identifique todas as palavras reservadas e características desta linguagem. Leia e separe
+cada token desta linguagem com o que já foi apresentado para você em sala de aula. Crie e
+cuide do seu projeto, pois você trabalhará nele por muito tempo este semestre.
+COMPILADORES !1
+Até aqui seu projeto deverá ler o arquivo de entrada, eliminar comentários e quebras de
+linhas. Faça com que seu programa imprima cada linha lida do programa acima e que seja
+válida(ou seja, não é comentário e nem é quebra de linha vazia).
+COMPILADORES !2
